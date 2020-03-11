@@ -1,0 +1,21 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha || true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.2.0",
+    "expect": "^25.1.0",
+    "express": "^4.17.1",
+    "mocha": "^7.1.0",
+    "request": "^2.88.2",
+    "supertest": "^4.0.2"
+  }
+}
